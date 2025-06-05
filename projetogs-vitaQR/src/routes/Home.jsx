@@ -27,7 +27,7 @@ function Home() {
     });
 
 
-    const url = `https://Lucascortizo.github.io/projetogs/#/view?${params.toString()}`;
+    const url = `https://Lucascortizo.github.io/projetogs-VitaQR/#/view?${params.toString()}`;
     setQrData(url);
   };
 
