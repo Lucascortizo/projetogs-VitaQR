@@ -1,12 +1,76 @@
-# React + Vite
+💡 VitaQR
+VitaQR é um sistema de cadastro e geração de QR Codes com informações médicas essenciais, criado para facilitar o resgate de pessoas em situações de enchentes e desastres naturais. A proposta é permitir o acesso rápido a dados médicos críticos, mesmo sem conexão com a internet.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Funcionalidades
+📝 Cadastro de informações médicas e contatos de emergência
 
-Currently, two official plugins are available:
+🔗 Geração de QR Code com os dados preenchidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📥 Download do QR Code em formato PNG
 
-## Expanding the ESLint configuration
+🔍 Link direto para visualização dos dados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Interface responsiva e intuitiva
+
+🚀 Como Usar
+Clone o repositório
+
+bash
+Copiar
+Editar
+git clone https://github.com/Lucascortizo/projetogs-VitaQR.git
+Instale as dependências
+
+bash
+Copiar
+Editar
+npm install
+Rode o projeto localmente
+
+bash
+Copiar
+Editar
+npm run dev
+Acesse no navegador
+http://localhost:5173
+
+🌐 Deploy
+Você pode acessar a versão online do projeto em:
+🔗 https://lucascortizo.github.io/projetogs-VitaQR/
+
+Para publicar atualizações:
+
+bash
+Copiar
+Editar
+npm run deploy
+🛠️ Tecnologias Utilizadas
+⚛️ React
+
+⚡ Vite
+
+🎨 Tailwind CSS
+
+🔁 React Router
+
+📷 React QR Code
+
+👥 Sobre o Projeto
+Este projeto foi desenvolvido por:
+
+Lucas Cortizo – RM559734
+
+Alan de Castro – RM560152
+
+Como parte da Global Solution FIAP, em parceria com:
+
+🏥 IBM
+
+🩺 Médicos Sem Fronteiras
+
+🛰️ INPE
+
+🛟 Defesa Civil de Santo André
+
+O VitaQR tem como objetivo principal auxiliar equipes de resgate no acesso rápido a informações médicas de vítimas em situações de emergência, usando QR Codes impressos ou digitais.
+
